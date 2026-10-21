@@ -48,20 +48,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Alvees7x/Alvees7x/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1&custom_title=Stats" height="100" alt="stats graph"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alvees7x/Alvees7x/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alvees7x/Alvees7x/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alvees7x/Alvees7x/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
-###
